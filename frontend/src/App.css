@@ -159,6 +159,8 @@ th {
 td {
   padding: 12px;
   border-bottom: 1px solid #eee;
+  color: #333;
+  background: white;
 }
 
 tr:hover {

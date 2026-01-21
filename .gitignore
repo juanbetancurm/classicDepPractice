@@ -153,3 +153,9 @@ docker-compose.override.yml
 # Nginx logs
 nginx-access.log
 nginx-error.log
+
+# Django generated static files
+backend/staticfiles/
+
+# Vite build cache
+.vite/
